@@ -1,0 +1,9 @@
+Building Motile
+
+See doc/readme-qt.rst for instructions on building Motile QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Motile.
+
+See doc/build-*.txt for instructions on building Motiled,
+the intended-for-services, no-graphical-interface, reference
+implementation of Motile.
